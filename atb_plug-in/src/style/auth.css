@@ -1,0 +1,36 @@
+.authorization{
+    background: rgba(254, 80, 0, 0.8);
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.auth__logo{
+    display: flex;
+    align-items: center;
+    width: 65%;
+    height: 100vh;
+    background: #fff;
+    border-radius: 0px 50px 50px 0px;
+    box-shadow: 20px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.logo{
+    margin: 0 auto;
+    width: 650px;
+}
+
+.auth__form{
+    padding: 70px 66px;
+    box-shadow: 20px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px; 
+    margin: 0 auto;
+    background: #fff;
+}
+
+.form__title{
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 77px;
+    text-align: center;
+}
